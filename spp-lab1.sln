@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tracer", "Tracer\Tracer.csproj", "{91E83A0B-854B-4995-8C0E-769A1268BEEC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests", "Tests\Tests.csproj", "{504DA3F0-7B6E-4895-AA6D-C9146EA38B59}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{91E83A0B-854B-4995-8C0E-769A1268BEEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91E83A0B-854B-4995-8C0E-769A1268BEEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91E83A0B-854B-4995-8C0E-769A1268BEEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91E83A0B-854B-4995-8C0E-769A1268BEEC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{504DA3F0-7B6E-4895-AA6D-C9146EA38B59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{504DA3F0-7B6E-4895-AA6D-C9146EA38B59}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{504DA3F0-7B6E-4895-AA6D-C9146EA38B59}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{504DA3F0-7B6E-4895-AA6D-C9146EA38B59}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

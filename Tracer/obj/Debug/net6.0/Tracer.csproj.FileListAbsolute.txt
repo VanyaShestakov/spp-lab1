@@ -1,0 +1,15 @@
+/Users/ivanshastakou/RiderProjects/spp-lab1/Tracer/obj/Debug/net6.0/Tracer.csproj.AssemblyReference.cache
+/Users/ivanshastakou/RiderProjects/spp-lab1/Tracer/obj/Debug/net6.0/Tracer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ivanshastakou/RiderProjects/spp-lab1/Tracer/obj/Debug/net6.0/Tracer.AssemblyInfoInputs.cache
+/Users/ivanshastakou/RiderProjects/spp-lab1/Tracer/obj/Debug/net6.0/Tracer.AssemblyInfo.cs
+/Users/ivanshastakou/RiderProjects/spp-lab1/Tracer/obj/Debug/net6.0/Tracer.csproj.CoreCompileInputs.cache
+/Users/ivanshastakou/RiderProjects/spp-lab1/Tracer/bin/Debug/net6.0/Tracer
+/Users/ivanshastakou/RiderProjects/spp-lab1/Tracer/bin/Debug/net6.0/Tracer.deps.json
+/Users/ivanshastakou/RiderProjects/spp-lab1/Tracer/bin/Debug/net6.0/Tracer.runtimeconfig.json
+/Users/ivanshastakou/RiderProjects/spp-lab1/Tracer/bin/Debug/net6.0/Tracer.dll
+/Users/ivanshastakou/RiderProjects/spp-lab1/Tracer/bin/Debug/net6.0/Tracer.pdb
+/Users/ivanshastakou/RiderProjects/spp-lab1/Tracer/obj/Debug/net6.0/Tracer.dll
+/Users/ivanshastakou/RiderProjects/spp-lab1/Tracer/obj/Debug/net6.0/refint/Tracer.dll
+/Users/ivanshastakou/RiderProjects/spp-lab1/Tracer/obj/Debug/net6.0/Tracer.pdb
+/Users/ivanshastakou/RiderProjects/spp-lab1/Tracer/obj/Debug/net6.0/Tracer.genruntimeconfig.cache
+/Users/ivanshastakou/RiderProjects/spp-lab1/Tracer/obj/Debug/net6.0/ref/Tracer.dll

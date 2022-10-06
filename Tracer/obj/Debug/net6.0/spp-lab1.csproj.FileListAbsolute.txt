@@ -1,0 +1,15 @@
+/Users/ivanshastakou/RiderProjects/spp-lab1/spp-lab1/bin/Debug/net6.0/spp-lab1
+/Users/ivanshastakou/RiderProjects/spp-lab1/spp-lab1/bin/Debug/net6.0/spp-lab1.deps.json
+/Users/ivanshastakou/RiderProjects/spp-lab1/spp-lab1/bin/Debug/net6.0/spp-lab1.runtimeconfig.json
+/Users/ivanshastakou/RiderProjects/spp-lab1/spp-lab1/bin/Debug/net6.0/spp-lab1.dll
+/Users/ivanshastakou/RiderProjects/spp-lab1/spp-lab1/bin/Debug/net6.0/spp-lab1.pdb
+/Users/ivanshastakou/RiderProjects/spp-lab1/spp-lab1/obj/Debug/net6.0/spp-lab1.csproj.AssemblyReference.cache
+/Users/ivanshastakou/RiderProjects/spp-lab1/spp-lab1/obj/Debug/net6.0/spp-lab1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ivanshastakou/RiderProjects/spp-lab1/spp-lab1/obj/Debug/net6.0/spp-lab1.AssemblyInfoInputs.cache
+/Users/ivanshastakou/RiderProjects/spp-lab1/spp-lab1/obj/Debug/net6.0/spp-lab1.AssemblyInfo.cs
+/Users/ivanshastakou/RiderProjects/spp-lab1/spp-lab1/obj/Debug/net6.0/spp-lab1.csproj.CoreCompileInputs.cache
+/Users/ivanshastakou/RiderProjects/spp-lab1/spp-lab1/obj/Debug/net6.0/spp-lab1.dll
+/Users/ivanshastakou/RiderProjects/spp-lab1/spp-lab1/obj/Debug/net6.0/refint/spp-lab1.dll
+/Users/ivanshastakou/RiderProjects/spp-lab1/spp-lab1/obj/Debug/net6.0/spp-lab1.pdb
+/Users/ivanshastakou/RiderProjects/spp-lab1/spp-lab1/obj/Debug/net6.0/spp-lab1.genruntimeconfig.cache
+/Users/ivanshastakou/RiderProjects/spp-lab1/spp-lab1/obj/Debug/net6.0/ref/spp-lab1.dll

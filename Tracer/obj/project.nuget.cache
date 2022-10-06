@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "d/Un+PDK8k1tzoLMvN2K2T6Wkjfz+upEbqQAeEEreaNuY+SluSdAvK8pC9gFvI/FouR+RPsEeT7qcbpmSPnamQ==",
+  "success": true,
+  "projectFilePath": "/Users/ivanshastakou/RiderProjects/spp-lab1/Tracer/Tracer.csproj",
+  "expectedPackageFiles": [
+    "/Users/ivanshastakou/.nuget/packages/coverlet.collector/3.1.2/coverlet.collector.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
